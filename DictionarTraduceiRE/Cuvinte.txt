@@ -1,0 +1,20 @@
+1,tu,you,personal pronoun
+2,fiu,son,a male human offspring	
+3,fiica,daughter,a female human offspring	
+4,frate,brother,a male with the same parents as someone else
+5,sora,sister,a female person who has the same parents as another person
+6,sot,husband,a woman''s partner in marriage	
+7,sotie,wife,a married woman	
+8,unchi,uncle,the brother of your father or mother
+9,matusa,aunt,the wife of your uncle
+10,var,cousin,the child of your aunt or uncle	
+11,bunica,grandmother,the mother of your father or mother	
+12,soacra,mother-in-law,the bride`s mother/the bridegroom`s mother
+13,caine,dog,a member of the genus Canis(probably descended from the common wolf)
+14,pisica,cat,feline mammal usually having thick soft fur and being unable to roar
+15,muncitor,worker,a person who works at a specific occupation
+16,carte,book,physical objects consisting of a number of pages bound together
+17,cas,house,a dwelling that serves as living quarters for one or more families
+18,dormitor,bedrom,a room used primarily for sleeping
+19,cer,sky,the atmosphere and outer space as viewed from the earth
+20,usa,door,a swinging or sliding barrier that will close the entrance to a room or building or vehicle
